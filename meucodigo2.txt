@@ -1,3 +1,0 @@
-Aula de aprendizado básico.
-Olá, sou uma nova linha.
-Teste para nova Branch
